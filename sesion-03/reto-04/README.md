@@ -1,8 +1,10 @@
-# Agregando contenedor al video para agregar imagen
+# Reto 04 - Agregando contenedor al video para agregar imagen
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
 - Tener conocimientos básicos de HTML y CSS
+
+<br/>
 
 ## INSTRUCCIONES
 
@@ -14,10 +16,12 @@ alinearlos con Flexbox.
 
 La imagen lo puedes encontrar [aquí](https://getmatcha.com/wp-content/themes/getmatcha/img/see_how_it_works.png).
 
-::: tip
-Como la imagen irá debajo del video, el contenedor debe de cambiar la dirección
+<br/>
+
+> TIP: Como la imagen irá debajo del video, el contenedor debe de cambiar la dirección
 de los elementos a `column`.
-:::
+
+<br/>
 
 <details>
   <summary>Posible solución</summary>
@@ -57,3 +61,11 @@ Resultando algo como:
 ![Alineamiento de video](../assets/video-alignment.png)
 
 </details>
+
+<br/>
+
+No olvides subir tus cambios a Github y revisar que se vean los cambios reflejados en tu página alojada en GitHub Pages.
+
+<br/>
+
+[Siguiente](../Ejemplo-05)

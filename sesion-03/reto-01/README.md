@@ -1,38 +1,24 @@
-# Agregando controles de reproducción al video
+## Reto 01
+
+<hr/>
+
+# Creando nuestras ramas
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Tener conocimientos básicos de HTML y CSS
-- Tener conocimientos básicos de Git
+
+<br/>
 
 ## INSTRUCCIONES
 
-Resulta que por defecto el navegador no agrega controles de reproducción al video,
-¿puedes buscar cómo agregárselo?
+ 1. Crea una rama que se llame develop
+ 2. De la rama develop crea una rama que llamaremos `task/001/changeBckcolor`
+ 3. Cambia el color de tu `background-color` del proyecto de la sesión anterior
+ 4. Sube los cambios a github de esta rama
+ 5. Jala los cambios con `git pull` de la rama `task/001/changeBkcolor` a develop
+ 6. Sube tus cambios a Github
 
-::: tip
-Lo que buscas es un atributo de la etiqueta `<video></video>`.
-:::
 
-<details>
-  <summary>Posible solución</summary>
+<br/>
 
-Agrega el atributo `controls` a la etiqueta `<video></video>`.
-
-```html
-<body>
-  <!-- Contenido previo -->
-  <!-- ... -->
-
-  <!-- Contenedor de video -->
-  <section>
-    <video
-      controls
-      src="https://cdn.videvo.net/videvo_files/video/premium/video0036/small_watermarked/computer_code00_preview.mp4"
-    ></video>
-  </section>
-</body>
-```
-
-</details>
-
+[Siguiente](../Ejemplo-02)

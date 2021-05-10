@@ -18,21 +18,17 @@ Los recursos que usaremos serán:
   nuestra opción por defecto en caso el navegador que usamos no soporte
   codificación de otros formatos.
 
-::: tip
-El video que estamos usando en el ejemplo fue obtenido de un repositorio de videos
-gratis para usar sin fines de uso comercial. Si en caso, deseas usar otro video
+>TIP: El video que estamos usando en el ejemplo fue obtenido de un repositorio de videos
+> gratis para usar sin fines de uso comercial. Si en caso, deseas usar otro video
 diferente al de los ejemplos, eres libre de hacerlo. Solo considera que deberás
 contar con la imagen de portada y el video en al menos un formato que funcione
 en tu navegador.
+>La web desde la que fue obtenido el video en mención es [Videvo](https://www.videvo.net/).
 
-La web desde la que fue obtenido el video en mención es [Videvo](https://www.videvo.net/).
-:::
-
-::: tip
-La página comentada en el tip anterior solo da la opción de descargar el video,
+> TIP
+>La página comentada en el tip anterior solo da la opción de descargar el video,
 si quieres obtener el link del video que usa esa página, puede ser un buen momento
 para que le preguntes al mentor de la sesión _¿cómo usar el devtools del navegador?_.
-:::
 
 Una vez con los recursos a usar definidos, empecemos. Como el video junto con
 un texto promocional irán alineados de manera distinta al contenido que tenemos
@@ -84,3 +80,8 @@ Empecemos por agregar el video con el atributo `src`:
 
 Esto nos mostrará el video en el navegador, pero, ¿te diste cuenta que no lo
 podemos reproducir?
+
+
+<br/>
+
+[Siguiente](../reto-02)

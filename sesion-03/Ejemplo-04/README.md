@@ -113,3 +113,7 @@ Bien, de esta manera el contenido publicitario ya queda alineado verticalmente
 al centro respecto del video. Sin embargo, ¿parece que falta una separación entre
 el video y el contenido, no? No te preocupes, esto lo vamos a solucionar
 definiendo el tamaño que van a ocupar cada uno de ellos más adelante.
+
+<br/>
+
+[Siguiente](../reto-04)

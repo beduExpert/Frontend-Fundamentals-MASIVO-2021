@@ -1,8 +1,18 @@
-# Obteniendo cambios con `git fetch` y `git merge`
+## Creando nuestras Ramas para versiones de nuestro proyecto 
 
-Como siempre que queremos aplicar cambios relacionados con Git, es necesario que
-nos movamos en la terminal hacia la carpeta de nuestro proyecto. Una vez dentro,
-vamos a realizar los siguientes pasos:
+<hr>
+
+<br>
+
+### Instrucciones
+
+1. Escribimos `git branch` para saber en que rama estoy y cuantas ramas tengo 
+2. Escribimos `git branch [Nombre de rama] `para crear nuestras.
+3. Escribimos `git checkout [Nombre de la rama] `para cambiarnos de rama. 
+
+<br/>
+
+## Obteniendo cambios con git `git pull`  `git fetch` y `git merge`
 
 1. Escribiremos `git fetch` para traer los cambios que se realizaron desde otro
    ordenador, ya sea cambios que tu hiciste o que alguien te mandó un Pull Request
@@ -52,6 +62,8 @@ vamos a realizar los siguientes pasos:
    código, salrá los archivos que se modifcaron y cuántas líneas se alteraron,
    de igual forma con alguna actualización o eliminación.
 
+   <br/>
+
    > Tip: En ocasiones, se modificó algo en Github, pero al mismo tiempo tu
    > también hiciste modificaciones en la misma ubicación (archivo) y tocaron
    > líneas de código similares. Cuando esto sucede, git no sabe qué cambios se
@@ -62,3 +74,8 @@ vamos a realizar los siguientes pasos:
    > de Github no bien traducido al español pero con buena y simple información
    > de cómo solucionarlo, si te trabas, no dudes en consultarlo durante la
    > sesión :wink:.
+
+
+<br/>
+
+[Siguiente](../reto-01)

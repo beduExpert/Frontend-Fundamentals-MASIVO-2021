@@ -1,4 +1,4 @@
-# Agrega la sección de publicidad
+# Reto 03 - Agrega la sección de publicidad
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
@@ -12,11 +12,9 @@ agregar, aun no es necesario alinearlo, no hay problema que todo se vea debajo,
 no intentes usar el `display: inline-block` de la sesión anterior, puesto que
 estaremos usando otra manera más adelante.
 
-::: tip
-Ya que tienes que agregar un encabezado, seguido de un párrafo y un formulario,
+> TIP: Ya que tienes que agregar un encabezado, seguido de un párrafo y un formulario,
 te recomendamos envolver todos estos elementos en un contenedor (idealmente
 semántico).
-:::
 
 Ten en cuenta lo siguiente:
 
@@ -26,6 +24,8 @@ Ten en cuenta lo siguiente:
 - El color de fuente del párrafo es `#343434`
 - Dependiendo del selector que usaste, ¿cómo reutilizarías tus estilos del
   formulario de la parte inicial para este nuevo formulario muy similar?
+
+  <br/>
 
 <details>
   <summary>Posible solución</summary>
@@ -102,3 +102,7 @@ Resultando algo así:
 ![Contenido publicitario](../assets/publish.png)
 
 </details>
+
+<br/>
+
+[Siguiente](../Ejemplo-04)
