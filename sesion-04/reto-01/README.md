@@ -1,24 +1,21 @@
-# Grid con 3 columnas iguales
+# Reto 01 - 
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
 - Tener conocimientos de CSS (Flexbox)
 
-## INSTRUCCIONES
+## Instrucciones
 
-Queremos indicar que nuestra grid va a contener 3 columnas del mismo ancho 
-relativo al espacio disponible en la pantalla. ¿Cómo lo lograrías usando la 
-función `repeat(cantidad, tamaño)`?
+1. Implementa las propiedades que ahora ya conoces dentro del proyecto que estamos realizando
+2. Pasa los niveles de Flexbox defense y Flexbox Froggy!!
 
-<details>
-  <summary>Posible Solución</summary>
+    - [Flexbox defense](http://www.flexboxdefense.com/) <br/>
+    - [Flexbox froggy](https://flexboxfroggy.com/)
 
-```css
-.features {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-}
-```
+<br/>
 
-</details>
+## (Los niveles que te falten los puedes terminar como Post Work)
 
+<br/>
+
+[Siguiente](../Ejemplo-02)

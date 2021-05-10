@@ -5,6 +5,7 @@
 - Tener conocimientos de CSS (Flexbox)
 - Tener conocimientos de CSS (Gid)
 
+<br/>
 
 ## INSTRUCCIONES
 
@@ -14,17 +15,15 @@ mouse sobre la imagen de la derecha de cada tarjeta (si deseas averiguar cómo
 lograr ese efecto, genial, solo recuerda que no es la prioridad de este 
 challenge).
 
-:::tip
-
-* Recuerda que puedes obtener el link de las imágenes, inspeccionando la página
+> TIP:
+> * Recuerda que puedes obtener el link de las imágenes, inspeccionando la página
   con el Dev Tools del navegador.
-* Para posicionar la imagen de la forma que está en la página, puedes jugar con 
+> * Para posicionar la imagen de la forma que está en la página, puedes jugar con 
   las propiedades de _position_.
-* El contenido interno de las tarjetas pueden ser estructurado con cualquier 
+> * El contenido interno de las tarjetas pueden ser estructurado con cualquier 
   técnica que has conocido hasta el momento, no necesariamente con CSS Grid.
 
-:::
-
+<br/>
 
 <details>
   <summary>Posible Solución</summary>
@@ -202,3 +201,7 @@ y `position: relative` para lograr la apariencia de la imagen.
 ```
 
 </details>
+
+<br/>
+
+[Regresar](../)

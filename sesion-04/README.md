@@ -10,7 +10,6 @@ En esta sesión aprenderás:
 - Estructurar elementos en formato de filas y columnas.
 - Posicionar elementos en base a la posición de otros de manera flexible.
 - Usar comandos de git para obtener cambios realizados por terceros.
-- Desplegar los cambios a nuestra página web hosteada en Netlify.
 
 ## Requisitos
 
@@ -19,20 +18,46 @@ En esta sesión aprenderás:
 - Editor de código 
 - Cuenta de Github
 
+<br/>
+
 ## Organización de la clase
 
-- [Ejemplo 01: Obteniendo cambios con `git pull`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/Ejemplo-01)
+- [Ejemplo 01: FlexBox](./Ejemplo-01)
 
-- [Ejemplo  02: Agregando características principales de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/Ejemplo-02)
+- [Reto  01: FlexBox](./reto-01)
 
-- [Reto  01: Grid con 3 columnas iguales](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-01)
+- [Ejemplo  02: Propiedades de alineación Flexbox](./Ejemplo-02)
 
-- [Reto  02: Grid 2 filas con alto de `330px`](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-02)
+- [Reto  02: Grid con 3 columnas iguales](./reto-02)
 
-- [Reto  03: Grid con 2 filas y 2 columnas](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-03)
+- [Ejemplo  03: Agregando características principales de Matcha](./Ejemplo-03)
 
-- [Reto  04: Agregando el contenido de las tarjetas](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/reto-04)
+- [Reto  03: Grid 2 filas con alto de `330px`](./reto-03)
 
-- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-04/postwork)
+- [Reto  04: Agregando el contenido de las tarjetas](./reto-04)
 
+- [Postwork](./postwork)
 
+<br/>
+
+# Grid CSS
+
+El término **grid**, **cuadrícula** o **rejilla** en CSS hace referencia a la apariencia de filas y columnas que generan los elementos de CSS.
+
+Anteriormente, para lograr esta apariencia solo teníamos los display de `inline-block` y propiedades como `float`, posteriormente con la aparición de Flexbox podíamos simular este comportamiento de manera flexible.
+
+Sin embargo, no existía ninguna forma nativa dedicada a este formato que es muy común encontrar en las páginas web modernas.
+
+<br/>
+
+![](./assets/s4.png)
+
+<br/>
+
+Sin embargo, en CSS3 tenemos un **nuevo conjunto de propiedades** que nos permiten lograr este objetivo de una manera más práctica y sencillo, que toma el nombre de Grid CSS.
+
+<br/>
+
+![](./assets/s4-1.png)
+
+<br/>
