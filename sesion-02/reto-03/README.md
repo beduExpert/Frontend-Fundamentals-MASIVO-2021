@@ -1,14 +1,43 @@
-# Aplica el margen utilizando el atajo de la propiedad `margin`
+## Reto 03
+
+<hr/>
+
+# Alineación de texto en la barra de navegación
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
 - Tener conocimientos básicos de HTML y CSS
 
+<br/>
+
 ## INSTRUCCIONES
 
-¿Sabías que la propiedad `margin` puede asignar el valor de los 4 lados en una
-sola línea? Si es la primera vez que escuchas esto, no dudes en _googleaerlo_ y
-experimentar cambiando las 3 propiedades que hemos escrito previamente por una
-sola. Luego imagina, pregunta e investiga que otras propiedades tienen el mismo
-atajo.
+Nuestra barra de navegación va tomando forma, pero, ¿qué tal si vamos alineando el texto?, considerando que el menú de navegación debería tener el texto y las acciones alineadas a la izquierda. ¿Qué propiedad vas a usar para alinear el texto? ¿A qué elementos aplicarás el alineado?
 
+<br/>
+
+<details><summary>Posible solución</summary>
+<p>
+
+```css
+.navbar {
+    width: 70%;
+    text-align: left;
+    color: #025157;
+    font-weight: 500;
+  }
+  
+  .actions {
+    width: 15%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+  }
+```
+
+</p>
+</details>
+
+<br/>
+
+[Siguiente](../reto-04)

@@ -24,3 +24,7 @@ de acciones de usuario.
 > elementos. En nuestro caso, queremos que el link apunte a la página inicial,
 > esto se puede lograr escribiendo `/` (barra diagonal) que hace referencia a la
 > raíz (punto de partida) de la página.
+
+<br/>
+
+[Siguiente](../reto-01)
