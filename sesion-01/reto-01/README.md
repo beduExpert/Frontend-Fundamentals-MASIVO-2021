@@ -1,11 +1,27 @@
-## Segundo texto
+## Reto 01
 
-Así que, ¿por qué no le agregamos el siguiente texto que encontramos en la web
-de `Matcha`? ¿Qué peso jerárquico y por ende qué etiqueta le pondrías al
-encabezado? ¿Y si fuese un párrafo en vez de un encabezado? ¿Cuál sería la
-diferencia?
+<hr/>
 
-##### Posible solución
+## Etiquetas con diferente peso jerárquico
+
+<br/>
+
+1. Agregar textos con los 6 niveles de jeraquía.
+2. Insertar un párrafo "El texto no importa pueden agregar el de 'Lorem ipsum'
+
+<br/>
+
+La principal diferencia es el peso semántico que le queremos dar al texto, si
+el texto que queremos mostrar no es necesariamente diferente a cualquier otro
+texto que tengamos en la web, probablemente un párrafo funcione bien y luego
+podríamos cambiar su apariencia para darle los efectos visuales deseados, sin
+embargo, si deseamos resaltar dicho texto sobre otros existentes, podemos usar
+un encabezado para darle una jerarquía y diferenciarlo de los demás.
+
+<br/>
+
+<details><summary>Posible solución</summary>
+<p>
 
 ```html
 <!DOCTYPE html>
@@ -16,26 +32,23 @@ diferencia?
   </head>
   <body>
     <!-- Esto es lo que se verá en el navegador web -->
-    <h1>Build your blog. Build your business.</h1>
-    <h4>
-      Instantly publish articles, drive more traffic, grow your email list, and
-      see your blog’s impact on sales.
-    </h4>
-    <!-- O usando un párrafo -->
-    <!--
-      <p>
-        Instantly publish articles, drive more traffic, grow your email list, 
-        and see your blog’s impact on sales.
-      </p>
-    -->
+    <h1>Heading level 1</h1>
+    <h2>Heading level 2</h2>
+    <h3>Heading level 3</h3>
+    <h4>Heading level 4</h4>
+    <h5>Heading level 5</h5>
+    <h6>Heading level 6</h6>
+    <!-- Usando un párrafo -->
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin laoreet sem in elit lobortis consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    </p>
   </body>
 </html>
 ```
 
-La principal diferencia es el peso semántico que le queremos dar al texto, si
-el texto que queremos mostrar no es necesariamente diferente a cualquier otro
-texto que tengamos en la web, probablemente un párrafo funcione bien y luego
-podríamos cambiar su apariencia para darle los efectos visuales deseados, sin
-embargo, si deseamos resaltar dicho texto sobre otros existentes, podemos usar
-un encabezado para darle una jerarquía y diferenciarlo de los demás.
+</p>
+</details>
 
+<br/>
+
+[Siguiente](../reto-02)

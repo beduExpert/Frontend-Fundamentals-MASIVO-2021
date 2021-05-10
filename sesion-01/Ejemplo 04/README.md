@@ -51,3 +51,7 @@ por una etiqueta `<form></form>`. Nuestro HTML del formulario quedaría así:
 
 Este formulario por si solo no hará ninguna acción, por el momento solo
 dejaremos que esté visible, la funcionalidad la dejaremos para después.
+
+<br/>
+
+[Siguiente](../reto-03)

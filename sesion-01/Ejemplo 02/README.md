@@ -69,3 +69,7 @@ Analicemos las etiquetas del código anterior:
   la página web y es dentro de esta que encontramos todo lo que vemos cada vez
   que visitamos un sitio. Botones, textos, imágenes y demás se definen dentro
   de esta etiqueta.
+
+  <br/>
+
+[Siguiente](../Ejemplo%2003)

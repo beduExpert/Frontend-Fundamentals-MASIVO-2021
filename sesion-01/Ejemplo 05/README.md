@@ -21,3 +21,7 @@ h1 {
 
 Recarga tu navegador para que puedas ver los cambios reflejados. ¡Ahora ya tienes
 tu texto con color!
+
+<br/>
+
+[Siguiente](../reto-05)
