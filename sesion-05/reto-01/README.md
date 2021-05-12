@@ -1,25 +1,42 @@
-# Personaliza tu emulador de experiencia móvil
+# Reto 01 - Cambiando la fuente de nuestro título principal
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
-- Conocer el modelo de caja 
+- Tener conocimientos básicos de CSS (Flexbox)
+- Tener conocimientos básicos de CSS (Gid)
 
-## INSTRUCCIONES
+<br/>
 
-En la parte superior de la página saldrá algunas opciones que se pueden aplicar
-para personalizar la apariencia del emulador de apariencia móvil que estamos
-usando.
+## Instrucciones
 
-¿Qué tal si averiguas como personalizar la apariencia de tu emulador de tal forma
-que quede algo similar a la que te presentamos en la siguiente imagen?
+El título de nuestra página está tomando demasiado espacio y no se ve bien, esto
+se debe a que tiene una fuente fija de `60px` para el ejemplo que usamos en esta
+guía. ¿Cómo harías para cambiarle de fuente a una que funcione mejor? 
 
-![Dev Tools personalizado](../assets/tuned-devtools.png)
+<br/>
 
-Una vez logrado, puedes cambiar la apariencia a cualquier otra que te guste más.
+> Nota: En nuestro caso, terminaremos usando una fuente de 30px pero puedes usar el tamaño que prefieras.
 
----
+<br/>
 
-Bueno, luego de experimentar un poco con las herramientas de desarrollo del
-navegador debemos de volver a enfocarnos al objetivo de nuestra sesión, si nos
-damos cuenta, nuestra web es casi ilegible desde un móvil y no es fácil de
-consumir para nuestros usuarios.
+<details>
+  <summary>Posible Solución</summary>
+
+```css
+@media (max-width: 575px) {
+  .navbar,
+  .actions {
+    display: none;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+}
+```
+
+</details>
+
+<br/>
+
+[Siguiente](../reto-02)
