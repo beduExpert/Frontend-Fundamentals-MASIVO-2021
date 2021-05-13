@@ -1,4 +1,4 @@
-## Reto 03 - Alineación de texto en la barra de navegación
+# Reto 03 - Alineación de texto en la barra de navegación
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.

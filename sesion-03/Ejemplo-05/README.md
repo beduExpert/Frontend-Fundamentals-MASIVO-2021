@@ -1,4 +1,4 @@
-# Aplicando `position:fixed`
+# Ej. 05 - Aplicando `position:fixed`
 
 Ya que nuestra barra de navegación tiene estilos y está funcionando, vamos a
 envolverla en un contenedor en el cual podamos agregar esta propiedad y así no

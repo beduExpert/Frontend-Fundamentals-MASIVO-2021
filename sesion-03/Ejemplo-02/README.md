@@ -1,4 +1,4 @@
-# Agregando la etiqueta video de HTML5
+# Ej. 02 - Agregando la etiqueta video de HTML5
 
 ¡Manos a la obra! Antes de agregar el video, debemos de saber qué video vamos a
 utilizar en nuestra web, si inspeccionamos la web de Matcha, encontraremos que

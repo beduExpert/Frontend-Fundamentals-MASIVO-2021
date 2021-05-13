@@ -1,8 +1,4 @@
-## Reto 01
-
-<hr/>
-
-# Creando nuestras ramas
+# Reto 01 - Creando nuestras ramas
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.

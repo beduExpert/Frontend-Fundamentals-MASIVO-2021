@@ -1,4 +1,4 @@
-## Reto 01 - Etiquetas semánticas para barra de navegación
+# Reto 01 - Etiquetas semánticas para barra de navegación
 
 ### REQUISITOS
 - Tener Git Bash si usas Windows.

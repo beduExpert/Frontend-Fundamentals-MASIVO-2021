@@ -1,8 +1,4 @@
-## Creando nuestras Ramas para versiones de nuestro proyecto 
-
-<hr>
-
-<br>
+## Ej. 01 - Creando nuestras Ramas para versiones de nuestro proyecto 
 
 ### Instrucciones
 

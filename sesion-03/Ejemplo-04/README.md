@@ -1,4 +1,4 @@
-# Alineamiento horizontal con flexbox
+# Ej. 04 - Alineamiento horizontal con flexbox
 
 Para llevar esto a cabo, revisemos nuestra estructura actual, probablemente se
 vea algo así:
