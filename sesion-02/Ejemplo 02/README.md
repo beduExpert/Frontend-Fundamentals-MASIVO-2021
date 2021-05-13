@@ -1,4 +1,4 @@
-# Cambiando el modelo de caja del menú de navegación
+# Ej. 02 - Cambiando el modelo de caja del menú de navegación
 
 En este punto ya tenemos las separaciones deseadas entre los bloques más grandes
 de contenido, sin embargo nuestro menú de navegación aun no tiene la apariencia

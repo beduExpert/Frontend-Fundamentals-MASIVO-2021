@@ -1,8 +1,4 @@
-## Reto 03
-
-<hr/>
-
-# Agregando estilos restantes
+## Reto 03 - Agregando estilos restantes
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.

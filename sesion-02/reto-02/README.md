@@ -1,8 +1,4 @@
-## Reto 02
-
-<hr/>
-
-# Aplica el margen utilizando el atajo de la propiedad `margin`
+## Reto 02 - Aplica el margen utilizando el atajo de la propiedad `margin`
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
