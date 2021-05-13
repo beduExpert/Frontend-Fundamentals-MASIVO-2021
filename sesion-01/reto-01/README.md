@@ -1,10 +1,4 @@
-## Reto 01
-
-<hr/>
-
-## Etiquetas con diferente peso jerárquico
-
-<br/>
+# Reto 01 - Etiquetas con diferente peso jerárquico
 
 1. Agregar textos con los 6 niveles de jeraquía.
 2. Insertar un párrafo "El texto no importa pueden agregar el de 'Lorem ipsum'

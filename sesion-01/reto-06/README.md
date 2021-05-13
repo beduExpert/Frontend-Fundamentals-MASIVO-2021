@@ -1,10 +1,4 @@
-## Reto 06
-
-<hr/>
-
-## Sube una nueva versión a Github
-
-<br/>
+# Reto 06 - Sube una nueva versión a Github
 
 Agrega cambios de CSS a tu proyecto, puede ser el color o cualquier otra propiedad
 que te llamó la intención probar. Luego sigue los comandos de Git que acabas de

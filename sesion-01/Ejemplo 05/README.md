@@ -1,4 +1,4 @@
-# Agregando color al texto principal
+# Ej. 05 - Agregando color al texto principal
 
 ## REQUISITOS
 - Tener un editor de código instalado

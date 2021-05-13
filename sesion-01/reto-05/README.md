@@ -1,10 +1,4 @@
-## Reto 05
-
-<hr/>
-
-## Cambia los colores
-
-<br/>
+## Reto 05 - Cambia los colores
 
 Los colores que van a aplicar son los siguientes:
 

@@ -1,10 +1,4 @@
-## Reto 04
-
-<hr/>
-
-## Agregando imagen
-
-<br/>
+## Reto 04 - Agregando imagen
 
 1. Es tu turno de agregar la última parte de la estructura que tenemos pensado para esta sesión, la imagen. La cual puedes obtenerla desde este [link](https://getmatcha.com/wp-content/themes/getmatcha/img/capterra.png).
 

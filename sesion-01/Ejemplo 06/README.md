@@ -1,4 +1,4 @@
-# Subiendo el proyecto a Github Pages
+# Ej. 06 - Subiendo el proyecto a Github Pages
 
 ## REQUISITOS
 - Tener cuenta en github

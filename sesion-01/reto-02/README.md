@@ -1,10 +1,4 @@
-## Reto 02
-
-<hr/>
-
-## Texto promocional
-
-<br/>
+# Reto 02 - Texto promocional
 
 1. Modificar formato del parrafo agregado en el reto-01.
 
