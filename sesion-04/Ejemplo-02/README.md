@@ -1,4 +1,4 @@
-# Propiedades de alineación Flexbox
+# Ej. 02 - Propiedades de alineación Flexbox
 
 1. justify-content: Se utiliza para alinear los ítems del eje principal (por defecto, el horizontal).
 

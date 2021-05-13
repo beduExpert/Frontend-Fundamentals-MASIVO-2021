@@ -1,4 +1,4 @@
-# Agregando características principales de Matcha
+# Ej. 03 - Agregando características principales de Matcha
 
 ¡Empecemos! Vamos a trabajar en la sección de características principales de
 nuestra web.
