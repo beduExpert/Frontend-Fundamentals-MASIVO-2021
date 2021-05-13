@@ -121,21 +121,19 @@ cuatro columnas cada una con el ancho de `1fr`, cada columna estará tomando un
 ancho del 25% del espacio disponible o 1/4 (depende de que notación les guste y
 entiendan mejor).
 
-
+```css
 .features {
-    display: grid;
-    grid-template-columns: 1fr 1fr ;
-    
-    
-    
-  }
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+}
 
-  article{
-    background-color: aqua;
-    margin: 10px;
-    width: 40% ;
-    height: 50px;
-  }
+article {
+  background-color: aqua;
+  margin: 10px;
+  width: 40% ;
+  height: 50px;
+}
+```
 
 <br/>
 

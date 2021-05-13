@@ -96,6 +96,13 @@ usaremos este codigo de html para el ejercicio de cada una de las propiedades;
 
 ## Propiedades para 
 
+0. Agrega lo siguiente:
+
+```css
+#main {
+  display: flex;
+}
+```
 
 
 1. flex grow -> aumenta el tamaño de un item a su mismo tamaño las cantidad qu le indiquemos 

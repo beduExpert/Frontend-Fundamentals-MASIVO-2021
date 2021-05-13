@@ -22,4 +22,4 @@ función `repeat(cantidad, tamaño)`?
 
 <br/>
 
-[Siguiente](../Ejemplo-02)
+[Siguiente](../Ejemplo-03)
