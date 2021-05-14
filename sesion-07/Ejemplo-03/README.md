@@ -1,4 +1,4 @@
-# Agregando segunda columna del blog
+# Ej. 03 - Agregando segunda columna del blog
 
 Para agregar la segunda columna que viene a ser un post del blog, usaremos un
 componente de Bootstrap llamado [card](https://getbootstrap.com/docs/4.4/components/card/).
@@ -32,7 +32,7 @@ base y luego iremos modificando. Sin más, empecemos:
 Ahora empecemos a cambiar el contenido por lo que necesitamos en la web de
 Matcha:
 
-```html{7-35}
+```html
 <section class="container blog">
   <div class="row">
     <div class="col">
@@ -76,3 +76,7 @@ Matcha:
 
 Con esta estructura nuestro post va tomando forma. Ahora es momento de
 personalizar su apariencia con cambios en Sass.
+
+<br/>
+
+[Siguiente](../reto-01)

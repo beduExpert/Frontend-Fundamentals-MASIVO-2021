@@ -1,4 +1,4 @@
-# Empezando a estructurar Sass
+# Ej. 01 - Empezando a estructurar Sass
 
 Sass nos permite detectar dos tipos de archivos, los que tienen extensión `.scss`
 ó `.sass`. El primero tiene dicha extensión porque su sintaxis base es muy
@@ -74,3 +74,7 @@ sección tiene el fondo de color blanco como lo definimos en el archivo de Sass.
 ¡Yay! Ya estamos listos para empezar a escribir código en Sass. ¿Te diste cuenta
 que el código que escribimos fue exactamente igual que solo CSS? Entonces, ¿cuál
 es la ventaja de usarlo? Es lo que vamos a descubrir en el siguiente apartado.
+
+<br/>
+
+[Siguiente](../Ejemplo-02)

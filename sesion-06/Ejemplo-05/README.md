@@ -242,4 +242,4 @@ misma barra de navegación.
 
 <br/>
 
-[Siguiente](../reto-05)
+[Regresar](../)

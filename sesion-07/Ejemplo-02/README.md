@@ -1,9 +1,9 @@
-# Agregando primera columna del blog
+# Ej. 02 - Agregando primera columna del blog
 
 De esta manera ya hemos indicado que la sección de blog va a utilizar tres
 columnas. Comencemos por agregar el contenido de la primera columna:
 
-```html{4-34}
+```html
 <section class="container blog">
   <div class="row">
     <div class="col">
@@ -48,20 +48,12 @@ columnas. Comencemos por agregar el contenido de la primera columna:
 Hemos ido agregando clases que luego utilizaremos para cambiar la apariencia que
 se tiene por defecto.
 
-:::tip
-
-En este caso, estamos usando rutas relativas para las imágenes, si no tienes
-estas imágenes las puedes encontrar en:
-
-- [Ícono de build](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/build.svg)
-- [Ícono de attract](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/attract.svg)
-- [Ícono de convert](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/convert.svg)
-
-Estos íconos fueron guardados en una carpeta `icons` en la raíz del proyecto. Si
-utilizas otra ruta para guardar estos íconos asegúrate de cambiarle la ruta
-relativa.
-
-:::
+> TIP: En este caso, estamos usando rutas relativas para las imágenes, si no tienes estas imágenes las puedes encontrar en:
+> - [Ícono de build](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/build.svg)
+> - [Ícono de attract](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/attract.svg)
+> - [Ícono de convert](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/convert.svg)
+> 
+> Estos íconos fueron guardados en una carpeta `icons` en la raíz del proyecto. Si utilizas otra ruta para guardar estos íconos asegúrate de cambiarle la ruta relativa.
 
 Como vemos en el resultado de esta estructura, toma ciertos estilos por defecto
 pero que no son exactamente lo que queremos. Vamos a cambiar su apariencia
@@ -119,7 +111,7 @@ común en otras secciones de la página. Para esto usaremos la funcionalidad de
 [extensión o herencia](https://sass-lang.com/documentation/at-rules/extend) que
 Sass nos provee. Empecemos por crear una variable para la fuente del título:
 
-```scss{8-9}
+```scss
 /** _global.scss */
 
 /** colores */
@@ -133,7 +125,7 @@ $font-title: "Alegreya", serif;
 
 Y ahora definamos la clase de placeholder:
 
-```scss{11-15}
+```scss
 /** _global.scss */
 
 /** colores */
@@ -160,7 +152,7 @@ podemos indicar que tenga acceso a las variables definidas en el otro archivo.
 
 Utilicemos `@use` para usar nuestras variables en el archivo `main.scss`:
 
-```scss{2,5}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -180,7 +172,7 @@ fondo de la sección usando la variable `$white` que definimos en el otro archiv
 Ahora si estamos listos para agregar nuestros estilos a la primera columna,
 empecemos por el título:
 
-```scss{9-11}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -204,7 +196,7 @@ escribamos de dicha forma.
 
 Ahora, pongamos un poco de estilos a la lista de procesos:
 
-```scss{13-20}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -234,7 +226,7 @@ está dentro de cada proceso. Usaremos el [`parent selector`](https://sass-lang.
 de Sass para hacer referencia al selector padrer y aplicar un selector de CSS
 más específico:
 
-```scss{20-31}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -273,7 +265,7 @@ más específico:
 
 Y ahora agreguemos estilos para el ícono de cada uno de los procesos:
 
-```scss{33-42}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -323,7 +315,7 @@ Y ahora agreguemos estilos para el ícono de cada uno de los procesos:
 
 Por último, agreguemos los estilos del botón:
 
-```scss{33-42}
+```scss
 /** main.scss */
 @use 'global' as *;
 
@@ -379,3 +371,7 @@ Por último, agreguemos los estilos del botón:
   }
 }
 ```
+
+<br/>
+
+[Siguiente](../Ejemplo-03)
