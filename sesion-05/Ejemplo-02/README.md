@@ -1,4 +1,4 @@
-# Ocultando la barra de navegación en móviles
+# Ej. 02 - Ocultando la barra de navegación en móviles
 
 Lo primero que podemos notar es que nuestra barra de navegación se distorsiona
 y termina viéndose mal, debido a muchos factores, tal vez el más importante que

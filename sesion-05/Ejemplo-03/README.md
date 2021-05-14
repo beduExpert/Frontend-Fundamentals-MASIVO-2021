@@ -1,4 +1,4 @@
-# Ajustando el ancho del banner Capterra
+# Ej. 03 - Ajustando el ancho del banner Capterra
 
 Si bien nuestra página principal ya va tomando una mejor apariencia, la imagen
 con el texto _Capterra_ y las estrellas se desbordan del ancho del dispositivo,

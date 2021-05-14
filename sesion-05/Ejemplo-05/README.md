@@ -1,4 +1,4 @@
-# Haciendo responsive la sección de características principales
+# Ej. 05 - Haciendo responsive la sección de características principales
 
 De momento ya tenemos de manera responsive nuestra portada inicial,
 ≥adicionalmente acabamos de cambiar el flujo de nuestra sección publicitaria

@@ -1,4 +1,4 @@
-# Manejando el responsive de la sección de publicidad
+# Ej. 04 - Manejando el responsive de la sección de publicidad
 
 Si hacemos un poco de scroll hacia la parte inferior de la página, nos daremos
 cuenta que las siguientes secciones están desbordadas y no se ven bien ya que

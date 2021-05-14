@@ -1,4 +1,4 @@
-# Inspeccionando tu sitio desde un móvil
+# Ej. 01 - Inspeccionando tu sitio desde un móvil
 
 Para poder adaptar nuestra página a un móvil por ejemplo, necesitamos saber cómo
 se ve actualmente, y si bien podríamos agarrar nuestro celular y entrar a la
