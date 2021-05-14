@@ -49,9 +49,9 @@ Hemos ido agregando clases que luego utilizaremos para cambiar la apariencia que
 se tiene por defecto.
 
 > TIP: En este caso, estamos usando rutas relativas para las imágenes, si no tienes estas imágenes las puedes encontrar en:
-> - [Ícono de build](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/build.svg)
-> - [Ícono de attract](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/attract.svg)
-> - [Ícono de convert](https://github.com/ivandevp/bedu-fullstack-js/blob/master/docs/sesiones/07-email-bienvenida/end-result/icons/convert.svg)
+> - [Ícono de build](https://cdn.iconscout.com/icon/free/png-256/build-20-454867.png)
+> - [Ícono de attract](https://catwatchful.com/main/wp-content/uploads/2014/09/rocket-icon.png)
+> - [Ícono de convert](https://icon-library.com/images/icon-convert/icon-convert-2.jpg)
 > 
 > Estos íconos fueron guardados en una carpeta `icons` en la raíz del proyecto. Si utilizas otra ruta para guardar estos íconos asegúrate de cambiarle la ruta relativa.
 

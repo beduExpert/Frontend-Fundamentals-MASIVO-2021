@@ -46,9 +46,9 @@ utilizamos en nuestra segunda columna pero con el texto cambiado:
             <strong class="read-time">• 6 mins read</strong>
           </p>
           <p class="card-text">
-            TL;DR: Licensed content, sometimes called syndicated content, is
-            content produced by a professional publisher that can be legally
-            licensed for...
+            Table of ContentsWhy Ecommerce Businesses Need a Blog in
+            2020Document Your Ecommerce Blog StrategyPublication: How to Create
+            High-Performing Blog ContentDistribution:...
             <span class="read-more">+ <a>Read More</a></span>
           </p>
           <div class="author d-flex align-items-center">

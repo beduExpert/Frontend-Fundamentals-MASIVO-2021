@@ -58,7 +58,7 @@ manera:
 
 Agreguemos en el HTML la sección del blog que construiremos usando Sass:
 
-```html{3}
+```html
 <body>
   <!-- Aquí vienen las demás secciones -->
   <section class="blog"></section>
