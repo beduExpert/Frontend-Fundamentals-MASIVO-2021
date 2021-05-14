@@ -65,18 +65,13 @@ m {
 }
 ```
 
-:::tip
-
-Como tal vez te habrás percatado, la propiedad `grid-template-columns` está
-siendo aplicada al _grid container_ y no a cada _grid item_. Similar a como
-vimos en Flexbox, es necesario saber que la apariencia general del contenido la
-definimos en los estilos del contenedor.
-
-Adicionalmente, hemos definimos 2 veces `300px` para indicar que tendremos 2
+> TIP: Como tal vez te habrás percatado, la propiedad `grid-template-columns` está siendo aplicada al _grid container_ y no a cada _grid item_. Similar a como vimos en Flexbox, es necesario saber que la apariencia general del contenido la definimos en los estilos del contenedor.
+<br/>
+> Adicionalmente, hemos definimos 2 veces `300px` para indicar que tendremos 2
 columnas de `300px` y de esta manera el contenido toma forma similar a la que
 deseamos.
 
-:::
+<br/>
 
 Probablemente te preguntarás, ¿qué pasaría si tuviéramos 5 columnas en vez de 2
 del mismo tamaño, tendríamos que escribir 5 veces `300px`? Para esto, CSS nos

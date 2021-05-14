@@ -54,10 +54,8 @@ de un formato para optimizar la experiencia de nuestros usuarios. Sin embargo,
 sería genial poder definir la imagen que queremos que se vea antes de que se
 reproduzca el video. ¿Nos ayudas a agregar esta funcionalidad?
 
-::: tip
-Esta funcionalidad también se logra a través de un atributo de la etiqueta
+> TIP: Esta funcionalidad también se logra a través de un atributo de la etiqueta
 `<video></video>`.
-:::
 
 <details>
   <summary>Posible solución</summary>

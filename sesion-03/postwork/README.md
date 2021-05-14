@@ -35,3 +35,7 @@ y te puede ayudar a entender mejor lo visto en clase y poder aplicarlo en este
 postwork.
 
 [CSS Tricks - A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+<br/>
+
+[Regresar](../)
