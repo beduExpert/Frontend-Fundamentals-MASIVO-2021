@@ -1,4 +1,4 @@
-# Agregando el navbar
+# Ej. 02 - Agregando el navbar
 
 Comencemos por comentar la barra de navegación que actualmente tenemos para
 evitar que se mezcle con la barra de navegación de Bootstrap.
@@ -112,3 +112,7 @@ Debería verse algo similar a:
 ![Barra de navegación de ejemplo de Bootstrap agregada](../assets/bootstrap-default-navbar.png)
 
 ¡Vamos a adaptarla a lo que necesitamos!
+
+<br/>
+
+[Siguiente](../reto-02)

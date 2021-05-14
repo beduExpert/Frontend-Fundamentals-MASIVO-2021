@@ -1,4 +1,4 @@
-# Agregando estilos de Bootstrap al proyecto
+# Ej. 01 - Agregando estilos de Bootstrap al proyecto
 
 Ahora que ya sabemos que vamos a usar un framework de CSS y que será Bootstrap,
 necesitamos agregarlo a nuestro proyecto para empezar a usarlo.
@@ -40,3 +40,7 @@ por el nuestro, quedando algo como:
   <link rel="stylesheet" type="text/css" href="./styles.css" />
 </head>
 ```
+
+<br/>
+
+[Siguiente](../reto-01)

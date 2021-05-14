@@ -1,13 +1,17 @@
-# Personaliza el contenido de tu navbar
+# Reto 01 - Personaliza el contenido de tu navbar
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
 - Conocer como instalar Bootstrap.
 
+<br/>
+
 ## INSTRUCCIONES
 
 Cambia el texto usado en el navbar por defecto al contenido que actualmente
 tenemos en nuestra página.
+
+<br/>
 
 <details>
   <summary>Posible solución</summary>
@@ -66,3 +70,7 @@ Viéndose algo como:
 ![Barra de navegación de Bootstrap con contenido](../assets/bootstrap-default-navbar-with-content.png)
 
 </details>
+
+<br/>
+
+[Siguiente](../Ejemplo-02)
