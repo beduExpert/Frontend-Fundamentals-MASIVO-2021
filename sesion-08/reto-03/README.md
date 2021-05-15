@@ -1,4 +1,4 @@
-# Agregar última sección de email de bienvenida
+# Reto 03 - Agregar última sección de email de bienvenida
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
@@ -25,6 +25,8 @@ imágenes que te mostramos al inicio puedes usar los siguientes links:
 - [Link de LinkedIn](https://linkedin.com/company/matchacontent)
 
 La fuente que usamos en el ejemplo es: `'Times New Roman', Times, serif`.
+
+<br/>
 
 <details>
   <summary>Posible solución</summary>
@@ -84,13 +86,15 @@ La fuente que usamos en el ejemplo es: `'Times New Roman', Times, serif`.
       </a>
     </div>
     <p>
-      © 2020 Matcha. All Rights Reserved
+      © 2021 Matcha. All Rights Reserved
     </p>
   </td>
 </tr>
 ```
 
 </details>
+
+<br/>
 
 ## Desplegando nuestros cambios
 
@@ -99,7 +103,7 @@ Esto probablemente ya lo has venido haciendo muchas veces, pero no está demás 
 Agrega tus cambios realizados a git:
 
 ```bash
-$ git add -A
+$ git add .
 ```
 
 Agrega un mensaje descriptivo a tu nueva versión:
@@ -118,3 +122,7 @@ Al realizar este último comando tus cambios estarán reflejados en Netlify y po
 
 ![](../assets/1.png)
 ![](../assets/2.jpeg)
+
+<br/>
+
+[Regresar](../)

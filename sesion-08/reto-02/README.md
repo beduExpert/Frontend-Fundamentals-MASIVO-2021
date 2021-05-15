@@ -1,4 +1,4 @@
-# Agregando segunda fila de características de Matcha
+# Reto 02 - Agregando segunda y tercera fila de características de Matcha
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
@@ -7,17 +7,20 @@
 ## INSTRUCCIONES
 
 Genial, ahora que ya hemos visto como distribuir en 2 columnas las
-características principales de Matcha, agrega la segunda fila para terminar esta
-sección.
+características principales de Matcha, agrega la segunda fila para terminar esta sección.
+
+<br/>
 
 <details>
   <summary>Posible solución</summary>
+
+  <br/>
 
 En este caso tenemos que agregar 2 celdas a la segunda fila y ponerle los mismos
 estilos a las imágenes y las celdas para que queden distribuidas tal cual las
 primeras:
 
-```html{49-64}
+```html
 <table
   style="width: 100%; max-width: 600px; text-align: center; background-color: #fffbf7; color: #025157;"
 >
@@ -29,8 +32,27 @@ primeras:
   </tr>
   <tr>
     <!-- Aquí está el texto de bienvenida a Matcha -->
+    <td>
+      <main class="container">
+        <header class="header">
+          <h1>Hi, there</h1>
+          <p style="font-size: 18px; padding: 0px 20px 0px 20px; color: #000000;">
+            Thanks for cheking out Marcha, Instantly publish articles, drive more traffic, grow
+            your email list, and see your blog's impact on sales.
+          </p>
+          <a href="https://getmatcha.com/">
+            <button style="
+            background-color: #025157;
+            padding: 15px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #ffffff;">EXPLORE MATCHA</button>
+            </button>
+      </main>
+    </td>
   </tr>
   <tr>
+    <!-- Aquí irá las características que Matcha provee -->
     <td
       style="
         border-top: 1px solid #999999d1;
@@ -94,3 +116,6 @@ primeras:
 
 </details>
 
+<br/>
+
+[Siguiente](../reto-03)

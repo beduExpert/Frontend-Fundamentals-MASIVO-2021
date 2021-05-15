@@ -1,4 +1,4 @@
-# Agrega la imagen descriptiva de Matcha para email
+# Reto 01 - Agrega la imagen descriptiva de Matcha para email
 
 ## REQUISITOS
 - Tener Git Bash si usas Windows.
@@ -12,10 +12,12 @@ ingresar la segunda fila con la imagen descriptiva de lo que es Matcha.
 
 El link de la imagen es: `https://getmatcha.com/wp-content/themes/getmatcha/css/../img/home_people.png`.
 
+<br/>
+
 <details>
   <summary>Posible solución</summary>
 
-```html{20-26}
+```html
 <table
   style="width: 100%; max-width: 600px; text-align: center; background-color: #fffbf7; color: #025157;"
 >
@@ -60,3 +62,7 @@ Resultando en algo como:
 ![Email de bienvenida - 2 primeras filas](../assets/email-2-first-rows.png)
 
 </details>
+
+<br/>
+
+[Siguiente](../reto-02)

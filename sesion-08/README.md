@@ -1,4 +1,4 @@
-# Sesión: E-mail de bienvenida
+# Sesión 08: E-mail de bienvenida
 
 Sigue el contenido a continuación durante clase para que no te pierdas ningún
 detalle de lo que estás a punto de aprender.
@@ -15,18 +15,12 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Homologando los formularios](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/Ejemplo-01)
+- [Ejemplo 01: Homologando los formularios](./Ejemplo-01)
 
-- [Ejemplo 02:  Agregando el script que enviará el correo](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/Ejemplo-02)
+- [Reto  01: Agrega la imagen descriptiva de Matcha para email](./reto-01)
 
-- [Ejemplo  03: Creación de archivo de plantilla de email](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/Ejemplo-03)
+- [Reto  02: Agregando segunda y tercera fila de características de Matcha](./reto-02)
 
-- [Ejemplo  04: Creando email de prueba](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/Ejemplo-04)
+- [Reto  03: Agregar última sección de email de bienvenida](./reto-02)
 
-- [Reto  01: Agrega la imagen descriptiva de Matcha para email](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-01)
-
-- [Reto  02: Agregando segunda fila de características de Matcha](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-02)
-
-- [Reto  03: Agregar última sección de email de bienvenida](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/reto-02)
-
-- [Postwork](https://github.com/beduExpert/A1-Frontend-Fundamentals-2020/tree/master/sesion-08/postwork)
+- [Postwork](./postwork)
