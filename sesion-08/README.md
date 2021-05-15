@@ -23,4 +23,6 @@ En esta sesión aprenderás:
 
 - [Reto  03: Agregar última sección de email de bienvenida](./reto-02)
 
-- [Postwork](./postwork)
+- [Postwork 01 - Subiendo el proyecto a Netlify](./postwork-01)
+
+- [Postwork 02 - Complementos](./postwork-02)
