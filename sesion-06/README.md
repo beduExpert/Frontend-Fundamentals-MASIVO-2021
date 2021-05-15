@@ -1,4 +1,4 @@
-# Sesión 06: Agregando filas y columnas con CSS Grid
+# Sesión 06: Reutilizando componentes visuales
 
 Sigue el contenido a continuación durante clase para que no te pierdas ningún
 detalle de lo que estás a punto de aprender.

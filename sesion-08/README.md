@@ -1,4 +1,4 @@
-# Sesión 08: E-mail de bienvenida
+# Sesión 08: Email development / Deploy de un sitio estático: Email de bienvenida
 
 Sigue el contenido a continuación durante clase para que no te pierdas ningún
 detalle de lo que estás a punto de aprender.
