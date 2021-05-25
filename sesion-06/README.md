@@ -13,20 +13,20 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Agregando estilos de Bootstrap al proyecto](./Ejemplo-01)
+- [Ejemplo 01: Agregando estilos de Bootstrap al proyecto ( 5 minutos ) ](./Ejemplo-01)
 
-- [Reto  01: Personaliza el contenido de tu navbar](./reto-01)
+- [Reto  01: Personaliza el contenido de tu navbar ( 15 minutos ) ](./reto-01)
 
-- [Ejemplo  02: Agregando el navbar](./Ejemplo-02)
+- [Ejemplo  02: Agregando el navbar ( 10 minutos ) ](./Ejemplo-02)
 
-- [Reto  02: Agregando Carousel](./reto-02)
+- [Reto  02: Agregando Carousel ( 15 minutos ) ](./reto-02)
 
-- [Ejemplo  03: Recuperando los estilos de la barra de navegación](./Ejemplo-03)
+- [Ejemplo  03: Recuperando los estilos de la barra de navegación ( 10 minutos ) ](./Ejemplo-03)
 
-- [Reto  03: Agreaga elemementos de Matcha con Bootstrap](./reto-03)
+- [Reto  03: Agrega elemementos de Matcha con Bootstrap ( 25 minutos ) ](./reto-03)
 
-- [Ejemplo  04: Revisando el responsive del navbar](./Ejemplo-04)
+- [Ejemplo  04: Revisando el responsive del navbar ( 15 minutos ) ](./Ejemplo-04)
 
-- [Reto  04: Volviendo la barra de navegación fija](./reto-04)
+- [Reto  04: Volviendo la barra de navegación fija ( 10 minutos ) ](./reto-04)
 
-- [Ejemplo  05: Agregando una nueva página](./Ejemplo-05)
+- [Ejemplo  05: Agregando una nueva página ( 15 minutos ) ](./Ejemplo-05)

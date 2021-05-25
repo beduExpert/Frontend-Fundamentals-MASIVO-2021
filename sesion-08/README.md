@@ -15,14 +15,14 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Homologando los formularios](./Ejemplo-01)
+- [Ejemplo 01: Homologando los formularios ( 30 minutos ) ](./Ejemplo-01)
 
-- [Reto  01: Agrega la imagen descriptiva de Matcha para email](./reto-01)
+- [Reto  01: Agrega la imagen descriptiva de Matcha para email ( 20 minutos ) ](./reto-01)
 
-- [Reto  02: Agregando segunda y tercera fila de características de Matcha](./reto-02)
+- [Reto  02: Agregando segunda y tercera fila de características de Matcha ( 20 minutos ) ](./reto-02)
 
-- [Reto  03: Agregar última sección de email de bienvenida](./reto-02)
+- [Reto  03: Agregar última sección de email de bienvenida ( 20 minutos ) ](./reto-02)
 
-- [Postwork 01 - Subiendo el proyecto a Netlify](./postwork-01)
+- [Postwork 01 - Subiendo el proyecto a Netlify ( 20 minutos ) ](./postwork-01)
 
-- [Postwork 02 - Complementos](./postwork-02)
+- [Postwork 02 - Complementos ( 20 minutos ) ](./postwork-02)

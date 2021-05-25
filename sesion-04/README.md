@@ -22,21 +22,21 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: FlexBox](./Ejemplo-01)
+- [Ejemplo 01: FlexBox ( 15 minutos ) ](./Ejemplo-01)
 
-- [Reto  01: FlexBox](./reto-01)
+- [Reto  01: FlexBox ( 20 minutos ) ](./reto-01)
 
-- [Ejemplo  02: Propiedades de alineación Flexbox](./Ejemplo-02)
+- [Ejemplo  02: Propiedades de alineación Flexbox ( 20 minutos ) ](./Ejemplo-02)
 
-- [Reto  02: Grid con 3 columnas iguales](./reto-02)
+- [Reto  02: Grid con 3 columnas iguales ( 15 minutos ) ](./reto-02)
 
-- [Ejemplo  03: Agregando características principales de Matcha](./Ejemplo-03)
+- [Ejemplo  03: Agregando características principales de Matcha ( 20 minutos ) ](./Ejemplo-03)
 
-- [Reto  03: Grid 2 filas con alto de `330px`](./reto-03)
+- [Reto  03: Grid 2 filas con alto de `330px` ( 15 minutos ) ](./reto-03)
 
-- [Reto  04: Agregando el contenido de las tarjetas](./reto-04)
+- [Reto  04: Agregando el contenido de las tarjetas ( 20 minutos ) ](./reto-04)
 
-- [Postwork](./postwork)
+- [Postwork ( 20 minutos ) ](./postwork)
 
 <br/>
 

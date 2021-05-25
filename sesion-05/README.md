@@ -16,20 +16,20 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Inspeccionando tu sitio desde un móvil / Agregando meta viewport](./Ejemplo-01)
+- [Ejemplo 01: Inspeccionando tu sitio desde un móvil / Agregando meta viewport ( 10 minutos ) ](./Ejemplo-01)
 
-- [Ejemplo  02: Ocultando la barra de navegación en móviles](./Ejemplo-02)
+- [Ejemplo  02: Ocultando la barra de navegación en móviles ( 15 minutos ) ](./Ejemplo-02)
 
-- [Reto  01: Cambiando la fuente de nuestro título principal](./reto-01)
+- [Reto  01: Cambiando la fuente de nuestro título principal ( 10 minutos ) ](./reto-01)
 
-- [Reto  02: Quitando separación superior del título](./reto-02)
+- [Reto  02: Quitando separación superior del título ( 10 minutos ) ](./reto-02)
 
-- [Ejemplo  03: Ajustando el ancho del banner Capterra](./Ejemplo-03)
+- [Ejemplo  03: Ajustando el ancho del banner Capterra ( 10 minutos ) ](./Ejemplo-03)
 
-- [Reto  03: Cambiando el flujo del formulario de registro en la sección de publicidad](./reto-03)
+- [Reto  03: Cambiando el flujo del formulario de registro en la sección de publicidad ( 10 minutos ) ](./reto-03)
 
-- [Ejemplo  04: Manejando el responsive de la sección de publicidad](./Ejemplo-04)
+- [Ejemplo  04: Manejando el responsive de la sección de publicidad ( 15 minutos ) ](./Ejemplo-04)
 
-- [Reto  04: Mejorando la experiencia móvil de las tarjetas de características](./reto-04)
+- [Reto  04: Mejorando la experiencia móvil de las tarjetas de características ( 20 minutos ) ](./reto-04)
 
-- [Ejemplo  05: Haciendo responsive la sección de características principales](./Ejemplo-05)
+- [Ejemplo  05: Haciendo responsive la sección de características principales ( 20 minutos ) ](./Ejemplo-05)

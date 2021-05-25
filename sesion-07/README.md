@@ -15,12 +15,12 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Empezando a estructurar Sass](./Ejemplo-01)
+- [Ejemplo 01: Empezando a estructurar Sass ( 15 minutos ) ](./Ejemplo-01)
 
-- [Ejemplo 02:  Agregando primera columna del blog](./Ejemplo-02)
+- [Ejemplo 02:  Agregando primera columna del blog ( 25 minutos ) ](./Ejemplo-02)
 
-- [Ejemplo  03: Agregando segunda columna del blog](./Ejemplo-03)
+- [Ejemplo  03: Agregando segunda columna del blog ( 15 minutos ) ](./Ejemplo-03)
 
-- [Reto  01: Agrega colores usados en las tarjetas](./reto-01)
+- [Reto  01: Agrega colores usados en las tarjetas ( 15 minutos ) ](./reto-01)
 
-- [Reto  02: Agrega la tercera columna](./reto-02)
+- [Reto  02: Agrega la tercera columna ( 25 minutos ) ](./reto-02)

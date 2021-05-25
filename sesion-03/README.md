@@ -21,25 +21,25 @@ En esta sesión aprenderás:
 
 ## Organización de la clase
 
-- [Ejemplo 01: Creando nuestras Ramas para versiones de nuestro proyecto](./Ejemplo-01)
+- [Ejemplo 01: Creando nuestras Ramas para versiones de nuestro proyecto ( 10 minutos ) ](./Ejemplo-01)
 
-- [Reto  01: Creando nuestras ramas / git fetch y git merge](./reto-01)
+- [Reto  01: Creando nuestras ramas / git fetch y git merge ( 20 minutos ) ](./reto-01)
 
-- [Ejemplo  02: Agregando la etiqueta video de HTML5](./Ejemplo-02)
+- [Ejemplo  02: Agregando la etiqueta video de HTML5 ( 10 minutos ) ](./Ejemplo-02)
 
-- [Reto  02: Agregando controles de reproducción y portada al video](./reto-02)
+- [Reto  02: Agregando controles de reproducción y portada al video ( 10 minutos ) ](./reto-02)
 
-- [Ejemplo  03: Agregando múltiples formatos de video](./Ejemplo-03)
+- [Ejemplo  03: Agregando múltiples formatos de video ( 10 minutos ) ](./Ejemplo-03)
 
-- [Reto  03: Agrega la sección de publicidad](./reto-03)
+- [Reto  03: Agrega la sección de publicidad ( 10 minutos ) ](./reto-03)
 
-- [Ejemplo  04: Alineamiento horizontal con flexbox](./Ejemplo-04)
+- [Ejemplo  04: Alineamiento horizontal con flexbox ( 15 minutos ) ](./Ejemplo-04)
 
-- [Reto  04: Agregando contenedor al video para agregar imagen](./reto-04)
+- [Reto  04: Agregando contenedor al video para agregar imagen ( 15 minutos ) ](./reto-04)
 
-- [Ejemplo  05: Aplicando `position:fixed`](./Ejemplo-05)
+- [Ejemplo  05: Aplicando `position:fixed` ( 10 minutos ) ](./Ejemplo-05)
 
-- [Postwork](./postwork)
+- [Postwork ( 20 minutos ) ](./postwork)
 
 <br/>
 
