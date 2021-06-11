@@ -59,8 +59,8 @@ usar de 2 maneras:
 Bueno, la primera es usada cuando solo tenemos un formato de video, ya que el
 atributo `src` solo se puede definir una vez dentro de la etiqueta. En cambio,
 la segunda opción nos permite usar varias etiquetas `<source />` dentro de la
-etiqueta video, lo cual nos permite agregr diferente tipos de formato tomando
-el orden en que se agregaron como orden parra intentar mostra el video.
+etiqueta video, lo cual nos permite agregar diferente tipos de formato tomando
+el orden en que se agregaron como orden para intentar mostra el video.
 
 Empecemos por agregar el video con el atributo `src`:
 
