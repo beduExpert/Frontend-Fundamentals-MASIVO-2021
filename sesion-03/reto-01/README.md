@@ -14,6 +14,42 @@
  5. Jala los cambios con `git pull` de la rama `task/001/changeBkcolor` a develop
  6. Sube tus cambios a Github
 
+<br/>
+
+<details>
+  <summary>Posible solución</summary>
+
+```console
+ 
+ git checkout -b develop 
+ 
+ git push -u origin develop
+ 
+ git checkout -b task/001/changeBckcolor
+ 
+```
+ 
+ Aplicar cambios al CSS
+ 
+```console
+ 
+ git add .
+ 
+ git commit -m "Cambiar backgroundColor"
+ 
+ git push
+ 
+ git checkout develop
+ 
+ git merge task/001/changeBckcolor
+ 
+ git push
+ 
+```
+ 
+ Vamos a GitHub y comprobamos que los cambios se aplicaron correctamanente
+
+</details>
 
 <br/>
 
